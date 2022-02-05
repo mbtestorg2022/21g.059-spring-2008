@@ -45,8 +45,54 @@ Presentations will be evaluated according to the following criteria: insight, cl
 
 ### Grading
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Participation in class discussion | 10% |
-| One oral presentation | 20% |
-|  {{< br >}}{{< br >}} Essays: {{< br >}}{{< br >}} *   First essay and its revision (10%){{< br >}}*   Second essay (15%){{< br >}}*   Third essay (20%){{< br >}}*   Fourth essay (25%) {{< br >}}{{< br >}}  | 70%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Participation in class discussion
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Essays:
+
+*   First essay and its revision (10%)
+*   Second essay (15%)
+*   Third essay (20%)
+*   Fourth essay (25%)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
